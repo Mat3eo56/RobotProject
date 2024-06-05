@@ -41,4 +41,18 @@ Este proyecto se realiza con el fin de implementar los conocimientos adquiridos 
 
 [17. Referencias](#referencias)
 
+# Resumen
 
+# Introducción
+
+# Objetivos
+
+# Justificación
+
+# Marco Teórico
+
+# Revisión de la Literatura
+
+# Cotización
+
+# Diseño 2D y 3D
