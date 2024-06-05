@@ -42,7 +42,7 @@ Este proyecto se realiza con el fin de implementar los conocimientos adquiridos 
 [17. Referencias](#referencias)
 
 # Resumen
-
+El presente repositorio tiene como objetivo, dar un conocimiento sobre los robots que 
 # Introducción
 
 # Objetivos
