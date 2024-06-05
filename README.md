@@ -4,3 +4,7 @@ Este proyecto se realiza con el fin de implementar los conocimientos adquiridos 
 - Arduino UNO
 - Bluetooth
 
+# Objetivos
+General:
+
+Especificos:
