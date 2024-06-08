@@ -55,6 +55,17 @@ La construcción de este robot 5DOF va más allá de la simple creación de una 
 
 Las aplicaciones de este robot 5DOF son diversas y prometedoras. En el ámbito educativo, puede servir como herramienta para enseñar conceptos de robótica y programación a estudiantes de todas las edades. En el campo de la investigación, puede ser utilizado para desarrollar nuevos algoritmos de control o probar diferentes diseños de robots. Incluso, en el ámbito del entretenimiento, puede convertirse en un robot de juguete o participar en competiciones de robótica. 
 # Objetivos
+Objetivo General
+
+Diseñar, construir y programar un brazo robótico que sea capaz de realizar tareas de manipulación y agarre de objetos en un entorno simulado y real. Para lograr esto, se emplean herramientas de diseño asistido por computadora (CAD) como solidworks para modelar cada componente del brazo, servomotores para el movimiento preciso de las articulaciones, y una tarjeta Arduino para el control y la comunicación con el software de ROS2. La simulación en ROS2 permite probar y validar los algoritmos de control y las trayectorias del brazo antes de implementarlos en el hardware real. Esta metodología reduce el riesgo de errores y daños en el prototipo físico, además de facilitar la optimización de los parámetros del sistema.
+
+Objetivos Especificos 
+ 
+- Crear un modelo detallado del brazo robótico en SolidWorks, incluyendo eslabones, juntas y el mecanismo de la pinza.
+- Desarrollar y programar los algoritmos de cinemática directa e inversa para controlar el movimiento del brazo.
+- Implementar el modelo del brazo en un entorno de simulación utilizando ROS2, y probar las capacidades de manipulación y agarre.
+- Imprimir en 3D las piezas del brazo robótico, ensamblar el hardware y conectar los servomotores a la tarjeta Arduino.
+- Programar la tarjeta Arduino para recibir comandos desde ROS2 y controlar los servomotores, y realizar pruebas funcionales para asegurar que el brazo opere según lo previsto.
 
 # Justificación
 
