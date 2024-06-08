@@ -44,7 +44,7 @@ Este proyecto se realiza con el fin de implementar los conocimientos adquiridos 
 # Resumen
 El presente repositorio tiene como objetivo, dar un conocimiento sobre los robots que 
 # Introducción
-
+Las artículaciones roboticas hoy en dia, 
 # Objetivos
 
 # Justificación
