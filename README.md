@@ -68,6 +68,17 @@ Objetivos Especificos
 - Programar la tarjeta Arduino para recibir comandos desde ROS2 y controlar los servomotores, y realizar pruebas funcionales para asegurar que el brazo opere según lo previsto.
 
 # Justificación
+En la era actual, caracterizada por el avance acelerado de la tecnología, la robótica se posiciona como un campo de gran relevancia con un potencial transformador en diversos ámbitos. La construcción de robots de 5 grados de libertad (5DOF) utilizando herramientas como la impresión 3D, Arduino y Python surge como una propuesta innovadora que merece ser analizada y discutida en profundidad.
+
+Este repositorio tiene como objetivo principal abordar la creación de un robot 5DOF desde una perspectiva crítica y reflexiva, explorando las razones que justifican su desarrollo y las implicaciones que este proyecto tiene para el futuro.
+
+En primer lugar, la impresión 3D se presenta como una tecnología disruptiva que revoluciona la forma en que se diseñan y construyen robots. Su capacidad para crear piezas personalizadas con precisión y eficiencia permite la construcción de robots con diseños complejos y adaptados a necesidades específicas. Además, el uso de materiales como el filamento PLA, biodegradables y versátiles, contribuye a la sostenibilidad del proyecto.
+
+Arduino, por su parte, emerge como una plataforma de desarrollo de código abierto que facilita la programación y control de robots. Su simplicidad y flexibilidad lo convierten en una herramienta ideal tanto para principiantes como para expertos, permitiendo la creación de robots con funcionalidades diversas y personalizables. La programación en Python, un lenguaje de programación ampliamente utilizado y de fácil aprendizaje, complementa las capacidades de Arduino, brindando mayor versatilidad y control sobre el robot.
+
+Más allá de la construcción de un robot funcional, este proyecto implica un proceso de aprendizaje profundo que abarca conocimientos de robótica, mecánica, electrónica y programación. Cada etapa, desde el diseño 3D hasta la programación final, ofrece oportunidades para adquirir nuevas habilidades y comprender los principios fundamentales que rigen el funcionamiento de los robots.
+
+Las aplicaciones de un robot 5DOF son diversas y prometedoras. En el ámbito educativo, puede servir como herramienta para enseñar conceptos de robótica y programación a estudiantes de todas las edades, fomentando el interés en las áreas STEM y desarrollando habilidades del siglo XXI. En el campo de la investigación, puede ser utilizado para probar nuevos algoritmos de control, explorar diferentes diseños de robots o desarrollar soluciones innovadoras a problemas específicos. Incluso, en el ámbito del entretenimiento, puede convertirse en un robot de juguete o participar en competiciones de robótica, despertando la curiosidad y el entusiasmo por la tecnología en el público general.
 
 # Marco Teórico
 
