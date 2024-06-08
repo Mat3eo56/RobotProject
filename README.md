@@ -42,9 +42,18 @@ Este proyecto se realiza con el fin de implementar los conocimientos adquiridos 
 [17. Referencias](#referencias)
 
 # Resumen
-El presente repositorio tiene como objetivo, dar un conocimiento sobre los robots que 
+
+
 # Introducción
-Las artículaciones roboticas hoy en dia, 
+En el mundo de la robótica, la construcción de robots de 5 grados de libertad (5DOF) se ha convertido en un proyecto popular, tanto para aficionados como para profesionales. Este tipo de robots, capaces de realizar movimientos complejos gracias a sus articulaciones, ofrecen un sinfín de posibilidades en diversos campos. En este ensayo, abordaremos la creación de un robot 5DOF utilizando las herramientas de impresión 3D, Arduino y el lenguaje Python, explorando sus beneficios y aplicaciones potenciales.
+
+La impresión 3D emerge como una tecnología clave en este proyecto. Permite crear piezas personalizadas de manera precisa y eficiente, adaptándose a los diseños específicos del robot y sus necesidades de movimiento. El uso de filamento PLA, un material biodegradable y versátil, contribuye a la sostenibilidad del proyecto.
+
+Arduino, una plataforma de desarrollo de código abierto, juega un papel fundamental en el control del robot. Al programar la placa Arduino Uno junto con los codigos en lenguaje Python, se le da vida al robot, permitiéndole ejecutar movimientos predefinidos o responder a comandos en tiempo real. La simplicidad y flexibilidad de Python lo convierten en un lenguaje ideal para principiantes y expertos por igual.
+
+La construcción de este robot 5DOF va más allá de la simple creación de una máquina. Implica un proceso de aprendizaje profundo en el que se conjugan conocimientos de robótica, mecánica, electrónica y programación. Cada etapa, desde el diseño 3D hasta la programación final, ofrece oportunidades para adquirir nuevas habilidades y comprender los principios fundamentales que rigen el funcionamiento de los robots.
+
+Las aplicaciones de este robot 5DOF son diversas y prometedoras. En el ámbito educativo, puede servir como herramienta para enseñar conceptos de robótica y programación a estudiantes de todas las edades. En el campo de la investigación, puede ser utilizado para desarrollar nuevos algoritmos de control o probar diferentes diseños de robots. Incluso, en el ámbito del entretenimiento, puede convertirse en un robot de juguete o participar en competiciones de robótica. 
 # Objetivos
 
 # Justificación
