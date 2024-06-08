@@ -57,7 +57,7 @@ Las aplicaciones de este robot 5DOF son diversas y prometedoras. En el ámbito e
 # Objetivos
 Objetivo General
 
-Diseñar, construir y programar un brazo robótico que sea capaz de realizar tareas de manipulación y agarre de objetos en un entorno simulado y real. Para lograr esto, se emplean herramientas de diseño asistido por computadora (CAD) como solidworks para modelar cada componente del brazo, servomotores para el movimiento preciso de las articulaciones, y una tarjeta Arduino para el control y la comunicación con el software de ROS2. La simulación en ROS2 permite probar y validar los algoritmos de control y las trayectorias del brazo antes de implementarlos en el hardware real. Esta metodología reduce el riesgo de errores y daños en el prototipo físico, además de facilitar la optimización de los parámetros del sistema.
+- Diseñar, construir y programar un brazo robótico que sea capaz de realizar tareas de manipulación y agarre de objetos en un entorno simulado y real. Para lograr esto, se emplean herramientas de diseño asistido por computadora (CAD) como solidworks para modelar cada componente del brazo, servomotores para el movimiento preciso de las articulaciones, y una tarjeta Arduino para el control y la comunicación con el software de ROS2. La simulación en ROS2 permite probar y validar los algoritmos de control y las trayectorias del brazo antes de implementarlos en el hardware real. Esta metodología reduce el riesgo de errores y daños en el prototipo físico, además de facilitar la optimización de los parámetros del sistema.
 
 Objetivos Especificos 
  
